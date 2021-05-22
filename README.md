@@ -1,0 +1,1 @@
+# smolbirdgame.js
